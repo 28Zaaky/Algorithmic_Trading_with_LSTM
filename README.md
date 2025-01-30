@@ -76,10 +76,12 @@ Les métriques sont sauvegardées dans `model_performance.txt` et les graphiques
 ## 🔄 Exemple de Sortie
 
 ```
-Prix actuel : 42000.00 USD, Prédiction : 42100.00 USD
+Prix actuel : 106127.30 USD, Prédiction : 2.01 USD
 Valeur totale : 1000.00 USD (Balance : 1000.00, Position : 0.0000 BTC)
-Prédiction brute du modèle : 42100.00
-Données normalisées pour la prédiction : [0.12, 0.45, 0.67, ...]
+Prédiction brute du modèle : 2.009071111679077
+Données normalisées pour la prédiction : [[ 1.06250431e+05  1.05060124e+05  1.05542602e+05  1.05902704e+05
+1.68641519e+01  5.02680800e+01  1.05286280e+05  1.06709744e+05
+1.05712029e+05  1.05049347e+05 -4.16026237e-03 -6.28936785e-03]..........]
 ```
 
 ## 🔜 Améliorations Futures
